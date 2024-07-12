@@ -1,4 +1,4 @@
-# 💫 About Me:<br>## Hi there 👋<br><br>- 🎓 I'm currently studying in Chittagong University of Engineering and Technology  <br>- 🌱 I’m currently doing B.Sc in Computer Science and Engineering
+# 💫 About Me:<br><br>  - 🎓 I'm currently studying in Chittagong University of Engineering and Technology  <br>  - 🌱 I’m currently doing B.Sc in Computer Science and Engineering
 
 
 ## 🌐 Socials:
