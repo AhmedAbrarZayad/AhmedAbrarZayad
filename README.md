@@ -65,7 +65,26 @@ I thrive in environments where technology meets innovation, and I’m continuous
 
 ## 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedAbrarZayad)](https://git.io/streak-stats)
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/AhmedAbrarZayad">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Thesachindey&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,7125bd&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/AhmedAbrarZayad">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Thesachindey&theme=nightowl&background=0,000000,7125bd&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
