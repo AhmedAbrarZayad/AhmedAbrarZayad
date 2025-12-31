@@ -65,18 +65,13 @@ I thrive in environments where technology meets innovation, and I’m continuous
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbrarZayad&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=AhmedAbrarZayad&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=AhmedAbrarZayad&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=AhmedAbrarZayad&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbrarZayad&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbrarZayad&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAbrarZayad&theme=tokyonight&no-frame=true&row=1&margin-w=8"/>
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=AhmedAbrarZayad&theme=tokyonight&row=1)
+
 
 
 ---
