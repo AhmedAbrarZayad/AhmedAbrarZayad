@@ -1,4 +1,11 @@
-![Banner](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?semt=ais_hybrid&w=740&q=80)
+<p align="center">
+  <img 
+    src="https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?semt=ais_hybrid&w=740&q=80"
+    alt="Developer workspace banner"
+    width="100%"
+  />
+</p>
+
 
 # 👋 Hi, I'm Ahmed Abrar Zayad
 ###  Full Stack Engineer
