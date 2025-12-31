@@ -19,6 +19,7 @@ I thrive in environments where technology meets innovation, and I’m continuous
 
 -  Exploring **Next.js** and its powerful features for building modern web applications
 -  Developing an exciting **Tourism Website** with interactive features and seamless user experience
+-  Learning Machine Learning and Deep Learning to build intelligent, data-driven applications and predictive systems.
 -  Developing an **AI Maternal Care** App aimed at improving prenatal and postnatal care through intelligent health tracking, early risk detection, and personalized recommendations for mothers.
 -  Learning advanced **React patterns** and state management techniques
 -  Learning **backend development** with a focus on building scalable APIs, managing databases, and implementing secure, efficient server-side architectures.
