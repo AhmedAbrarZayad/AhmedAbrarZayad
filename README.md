@@ -65,18 +65,7 @@ I thrive in environments where technology meets innovation, and I’m continuous
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api.svg?username=AhmedAbrarZayad&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=AhmedAbrarZayad&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs.svg?username=AhmedAbrarZayad&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAbrarZayad&theme=tokyonight&row=1" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAbrarZayad)](https://github.com/AhmedAbrarZayad/github-readme-stats)
 
 
 
