@@ -97,6 +97,3 @@ I thrive in environments where technology meets innovation, and I’m continuous
   <img src="https://komarev.com/ghpvc/?username=AhmedAbrarZayad&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/AhmedAbrarZayad">Your Name</a> | Let's build something amazing together! 💻✨
-</p>
