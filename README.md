@@ -1,22 +1,28 @@
 ![Banner](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?semt=ais_hybrid&w=740&q=80)
 
-# 👋 Hi, I'm [Your Name]
-### 🚀 Frontend Developer | Web Enthusiast | Problem Solver
+# 👋 Hi, I'm Ahmed Abrar Zayad
+###  Full Stack Engineer
 
 ---
 
 ## 📖 About Me
 
-I'm a passionate developer who loves crafting beautiful and functional web experiences. With a strong foundation in modern web technologies, I focus on building scalable and user-friendly applications. I believe in continuous learning and staying updated with the latest trends in web development to deliver exceptional digital solutions.
+I am a Full-Stack Developer with strong expertise in web development and a growing focus on AI-driven solutions. I’m passionate about building scalable, efficient, and user-centric software that solves real-world problems.
+
+With hands-on experience across the frontend, backend, and databases, I enjoy turning ideas into reliable, production-ready applications. I’m also familiar with mobile app development, allowing me to design and develop solutions that work seamlessly across platforms.
+
+I thrive in environments where technology meets innovation, and I’m continuously learning to stay at the forefront of modern web technologies, AI, and machine learning. My goal is to contribute to impactful projects that combine clean engineering, smart automation, and meaningful user experiences.
 
 ---
 
-## 🔭 What I'm Currently Working On
+##  What I'm Currently Working On
 
-- 🌐 Exploring **Next.js** and its powerful features for building modern web applications
-- ✈️ Developing an exciting **Tourism Website** with interactive features and seamless user experience
-- 📚 Learning advanced **React patterns** and state management techniques
-- 🎨 Improving my **UI/UX design skills** to create more intuitive interfaces
+-  Exploring **Next.js** and its powerful features for building modern web applications
+-  Developing an exciting **Tourism Website** with interactive features and seamless user experience
+-  Developing an **AI Maternal Care** App aimed at improving prenatal and postnatal care through intelligent health tracking, early risk detection, and personalized recommendations for mothers.
+-  Learning advanced **React patterns** and state management techniques
+-  Learning **backend development** with a focus on building scalable APIs, managing databases, and implementing secure, efficient server-side architectures.
+-  Improving my **UI/UX design skills** to create more intuitive interfaces
 
 ---
 
