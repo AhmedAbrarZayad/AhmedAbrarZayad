@@ -65,7 +65,7 @@ I thrive in environments where technology meets innovation, and I’m continuous
 
 ## 📊 GitHub Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAbrarZayad)](https://github.com/AhmedAbrarZayad/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedAbrarZayad)](https://git.io/streak-stats)
 
 
 
