@@ -1,4 +1,4 @@
-![Banner]([https://via.placeholder.com/1200x300/0D1117/58A6FF?text=Welcome+to+My+GitHub+Profile](https://www.freepik.com/free-photos-vectors/linkedin-banner-fullstack-developer))
+![Banner](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?semt=ais_hybrid&w=740&q=80)
 
 # 👋 Hi, I'm [Your Name]
 ### 🚀 Frontend Developer | Web Enthusiast | Problem Solver
