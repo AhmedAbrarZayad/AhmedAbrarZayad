@@ -8,7 +8,7 @@
 
 
 # 👋 Hi, I'm Ahmed Abrar Zayad
-###  Full Stack Engineer
+###  Full Stack Developer
 
 ---
 
